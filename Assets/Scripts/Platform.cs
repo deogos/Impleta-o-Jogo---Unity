@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-public class Rotation : MonoBehaviour
+public class Platform : MonoBehaviour
 {
    
     float speedY = 40f;
